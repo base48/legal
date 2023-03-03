@@ -1,0 +1,143 @@
+Zápis z valné hromady base48 26.1.2023
+
+Přítomno 23 členů.
+
+1. Volba zapisovatele a ověřovatele
+
+Zapisovatel zvolen optickou většinou Milan Belianský.
+
+Ověřovatel zvolen optickou většinou Václav Chlad.
+
+2. Schválení programu
+
+ - Volba předsedy
+ - Volba rady
+ - Úpravy členských přispěvku
+ - Uprava stanov 
+ 
+Navržený program byl schválen optickou většinou.
+
+3. Volba předsedy
+
+Přihlášení kandidáti:
+    Lukáš Nový (krtek)
+    Jan Němeček (skirit)
+
+Nikdo není proti tomu, aby volba proběhla jednokolově, tajně, každý člen má jeden hlas a za předsedu bude zvolen kandidát s prostou většinou.
+
+Výsledek volby:
+    Lukáš Nový (krtek) - 5 hlasů
+    Jan Němeček (skirit) - 11 hlasů
+    neplatné hlasy (mino) - 3 hlasy
+    nikdo se nezdržel
+
+Předsedou sdružení byl zvolen Jan Němeček.
+
+4. Volba rady
+
+Valná hromada optickou většinou stanovila počet členů radu na 6 (včetně předsedy).
+
+Přihlášení kandidáti
+  Milan Belianský (termix)
+  Josef Němec (noro)
+  Lukáš Nový (krtek)
+  Zdeněk Jánošík (z)
+  Lukáš Svoboda (freedom)
+  Václav Chlad (václav)
+  Milan Nižňanský (mino)
+  Martin Janovský (martian)
+
+Nikdo není proti tomu, aby volba proběhla jednokolově, tajně, každý člen má pět hlasů (pro různé kandidáty) a do rady bude zvoleno 5 kandidátů s nejvyšším počtem hlasů.
+
+Výsledek volby:
+  Milan Belianský (termix) - 12 hlasů
+  Josef Němec (noro) - 4 hlasy
+  Lukáš Nový (krtek) - 16 hlasů
+  Zdeněk Jánošík (z) - 19 hlasů
+  Lukáš Svoboda (freedom) - 8 hlasů
+  Václav Chlad (václav) - 14 hlasů
+  Milan Nižňanský (mino) - 14 hlasů
+  Martin Janovský (martian) - 9 hlasů
+  nikdo se nezdržel
+
+Do rady byly zvoleni Zdeněk Jánošík, Lukáš Nový, Václav Chlad, Milan Nižňanský a Milan Belianský. 
+
+Úpravy členských přispěvku
+
+Valná hromada schvaluje Předpis o příspěvcích
+
+"""
+1) Variabilní členské
+Výše členského je variabilní přičemž je stanovena jeho minimální výše.
+Člen si stanovuje výši členského předem na nadcházející měsíc
+prostřednictvím sdělení radě. Stanovená výše nesmí být nižší než
+minimální členské.
+
+
+2) Minimální členské člena
+Minimální členské člena se vypočítá jako členské základní upravené o
+případná navýšení a slevy dle tohoto předpisu.
+
+
+3) Navýšení s souvislosti s užitím podlahové plochy.
+Navýšení členského v souvislosti s dlouhodobým obsazením podlahové
+plochy členem se uplatní v případě že člen dlouhodobě obsadí
+společnou podlahovou plochu v rozsahu vyšším než 0.5 m2.
+
+Dlouhodobě obsazená plocha pro účely navýšení výpočtu minimálního
+členského se stanoví dle následujících pravidel:
+ - za obsazenou plochu se považuje plocha využitá členem mimo pevného
+vybavení base48 (t.j. krabice v regálech se neuvažují)
+ - obsazená plocha se počítá na "bloky" 0.5 m2 (t.j. např. půlpaleta
+80x60 je jeden blok)
+ - kolo se považuje za jeden blok
+ - doba obsazení plochy je delší než 5 kalendářních týdnů
+ - plocha obsazená projektem schváleným radou spolku se neuvažuje
+
+Minimální členské se navyšuje vždy o 0.2 násobek základního členského
+za každý započatý blok obsazené podlahové plochy.
+
+
+4) Sleva pro studenty
+Sleva pro studenty se stanovuje ve výší 40% základního členského.
+
+
+5) Základní členské
+Základní členské se stanovuje na 800,- Kč.
+
+
+6) Účinnost
+Tento předpis nabývá účinnosti k 1. 2. 2023.
+"""
+
+Hlasování:
+    Pro - 20
+    Proti - 1
+    Nikdo se nezdržel
+
+Změny stanov
+
+Návrh na změnu stanov:
+    
+Valná hromada přijímá rozhodnutí nadpoloviční většinou přítomných členů. Pro odvolání      Předsedy, člena Rady spolku a pro změnu těchto stanov je potřeba      třípětinové většiny přítomných členů avšak nejméně třetiny všech členů spolku.
+se mění na 
+Valná hromada přijímá rozhodnutí nadpoloviční většinou přítomných členů. Pro odvolání      Předsedy, člena Rady spolku a pro změnu těchto stanov je potřeba      třípětinové většiny přítomných členů avšak nejméně čtvrtiny všech členů spolku.
+
+a
+
+Valná hromada je schopná se usnášet za přítomnosti alespoň třetiny svých členů.
+se mění na
+Valná hromada je schopná se usnášet za přítomnosti alespoň čtvrtiny svých členů.
+
+Hlasování:
+    Pro 20
+    Proti 1
+    Nikdo se nezdržel
+
+Do sekce Rada spolku rady se vkládá na konec bod:
+    Rada spolku může rozhodnout o snížení příspěvku konkrétnímu členovi.
+    
+Hlasování:
+    Pro 20
+    Proti 1
+    Nikdo se nezdržel
