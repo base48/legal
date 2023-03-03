@@ -1,4 +1,4 @@
-files = stanovy.pdf
+files = stanovy.pdf predpis-o-prispevcich.pdf 
 
 all: $(files)
 	#xpdf -remote latex -reload

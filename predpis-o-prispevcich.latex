@@ -1,0 +1,64 @@
+\documentclass[12pt]{article}
+\usepackage[czech]{babel}
+\usepackage[utf8]{inputenc}
+
+% roman numerals for section numbers
+\renewcommand{\thesection}{\arabic{section}} 
+
+% indentation of the first line of a paragraph
+\setlength{\parindent}{0cm}
+% space between paragraphs
+\setlength{\parskip}{3mm}
+
+\begin{document}
+
+% i suck at latex and don't know how to make a heading™
+\begin{center}
+{\LARGE\bf Předpis o příspěvcích}
+\end{center}
+
+\section{Variabilní členské}
+Výše členského je variabilní přičemž je stanovena jeho minimální výše.
+Člen si stanovuje výši členského předem na nadcházející měsíc
+prostřednictvím sdělení radě. Stanovená výše nesmí být nižší než
+minimální členské.
+
+
+\section{Minimální členské člena}
+Minimální členské člena se vypočítá jako členské základní upravené o
+případná navýšení a slevy dle tohoto předpisu.
+
+
+\section{Navýšení s souvislosti s užitím podlahové plochy}
+Navýšení členského v souvislosti s dlouhodobým obsazením podlahové
+plochy členem se uplatní v případě že člen dlouhodobě obsadí
+společnou podlahovou plochu v rozsahu vyšším než 0.5 m2.
+
+Dlouhodobě obsazená plocha pro účely navýšení výpočtu minimálního
+členského se stanoví dle následujících pravidel:
+\begin{itemize}
+\item za obsazenou plochu se považuje plocha využitá členem mimo pevného
+vybavení base48 (t.j. krabice v regálech se neuvažují)
+\item obsazená plocha se počítá na "bloky" 0.5 m2 (t.j. např. půlpaleta
+80x60 je jeden blok)
+\item kolo se považuje za jeden blok
+\item doba obsazení plochy je delší než 5 kalendářních týdnů
+\item plocha obsazená projektem schváleným radou spolku se neuvažuje
+\end{itemize}
+
+Minimální členské se navyšuje vždy o 0.2 násobek základního členského
+za každý započatý blok obsazené podlahové plochy.
+
+
+\section{Sleva pro studenty}
+Sleva pro studenty se stanovuje ve výší 40\% základního členského.
+
+
+\section{Základní členské}
+Základní členské se stanovuje na 800,- Kč.
+
+
+\section{Účinnost}
+Tento předpis nabývá účinnosti k 1. 2. 2023.
+
+\end{document}
