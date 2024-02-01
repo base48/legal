@@ -1,0 +1,82 @@
+Rada Base48 1/2024
+
+Pritomni skirit, vaclav, anicka, krtek
+zápis krtek
+
+Program:
+    1. Valná hromada - finish
+    2. Rozdelni ukolu nove rady
+    3. Úkoly z minula
+    4. Novi clenove
+    5. Různé
+    
+Agenda:
+1. Valná hromada - finish
+
+Zapis mame, overoval podepsal, updatovan ukol.
+Diskuse o clenech pozastavenych a vyloucenych.
+Anicka vyridi hexa.
+
+2. Rozdeleni ukolu nove rady
+Krtek - kancler (formality, legal apod.), FB
+Vaclav - senior event manager, media
+Anicka - junior event manager, media
+Termix - zustal mu mailing-list
+Skirit - management pracovniho prostoru (stara se, aby tu nemeli clenove bordel), anicka o dokumentaci a komunikaci
+Skirit - management projektu bejz
+Anicka, krtek - fundraising
+
+3. Úkoly z minula
+>> Prebrat media: v pokracovani
+        kdo: Vaclav, Anicka
+        stav: V procesu
+        
+>> dat dokupy dokumenty pro soud
+        Dokumenty:
+                 - Pruvodni dopis
+                 - Zapis podepsany zapisovatelem a overovatelem. [mame]
+                 - Email s pozvankou na hromadu
+                 - Nove stanovy
+                 - List s ucasti [mame]
+        kdo:
+                skirit s krtkem vytiskne do PDF email s pozvankou a pruvodni dopis a nasledne to posle.
+                stav: V procesu
+  
+>> lubko-elektro-retro komp, jezdici stolecek
+        kdo: vaclav
+        Stav: zahajeno
+
+>> hexo
+       kdo: anicka
+       Stav: zahajeno
+    
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: zahajeno
+
+>> elektrifikace zahradky
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+>> 3D tiskarny, opravit
+>> skladovaci prostory a ostavit regal
+kdo: Anicka, Milan
+>> wiki
+     kdo: lubko (dohleduje Anicka)
+     stav: probiha
+>> manual pro nove cleny na wiki
+     kdo: anicka
+     stav: zahajeno
+
+3. Noví členové
+Nikdo
+
+
+4. Různé
+Postup pro prijeti clenu
+
+
+- ma prijit, pokecat, vysvetlit, co by chtel delat
+- registrace na member portalu (m.base48.cz) -> portál vygeneruje ID pro platbu
+- nový člen pošle příspěvek -> ID, které najde na svém profilu v member portálu, zadá do Variabilního Symbolu (VS) platby
+- klice predava skirit a seznamuje noveho clena s pravidly bejzu
+  - mailinglist, irc, signal, v budoucnu i prirucka na wiki
+
