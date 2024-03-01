@@ -1,0 +1,147 @@
+Rada Base48 2/2024
+
+Datum: 1.3.2024
+Pritomni: skirit, vaclav, anicka, krtek
+Zápis: krtek
+
+
+Program:
+   1. uprava signalovych skupin 
+   2. zkusebni doba novych clenu 
+   3. dodelat papiry 
+   4. novy separatni ucet na projekty 
+   5. mino vyklizeci doba placeni za prostor 
+   6. adamovy veci
+   7. strecha
+   8. opening of garden 
+   9. install fest 
+10. fundraising   
+11. media 
+12. Ukoly z minula 
+13. Různé
+    
+
+Agenda:
+   1. uprava signalovych skupin
+
+skirit prekopal signal skupiny. hlavni skupina base48 jenom pro interni cleny, excleny apod. anicka zapise do wiki zmenu.
+base48-chat volne pristupna
+
+   2. zkusebni doba novych clenu
+   
+skirit: navrhuji zkusebni dobu pro nove cleny.
+aspon 1 mesic aspon 5 navstev od zadosti, pak mu reknem, ze muze zaplatit.
+anicka zapise do wiki   
+   
+   3. dodelat papiry
+
+vezme si to krtek
+
+   4. novy separatni ucet na projekty
+   
+anicka: fundraisingovy pristup. pro lepsi prehlednost a financovani projektu. krtek overi, co je potreba ve fio.
+po diskusi vzhledem k tomu, ze by bylo potreba ucetnictvi, tak zadny ucet zatim nebude.
+   
+   5. mino vyklizeci doba placeni za prostor 
+   
+skirit: mino prosvihl termin, kvuli nemoci. uvolni prostor, aby se delat a jako kompenzaci nam da skrine.
+nechame ho do konce brezna a pak to zacnem resit.
+pripravuje stehovaci akci.   
+   
+   6. adamovy veci
+   
+adamovi vodovodni veci, probehla diskuse, zadny zaver. zkusime kontaktovat.
+
+   7. strecha
+   
+zase tece. je potreba znova zalatovat. az zacne prset
+
+   8. opening of garden
+   
+mozna nejaky event
+   
+   9. install fest
+   
+16.-17.3.
+vasek se domluvi s anicku a domluvi se.
+vasek uz domluvil misto na stanek.
+kdo pojede: vasek, skirit, možná anicka
+co s sebou: Veverakuv robot, satellite tracker, lockpicking, mráček??, udělat fotky, udělat letáčky, obrazovka
+   
+10. fundraising
+
+Muzeme udelame balicky trvaji rok.
+  - vozeni rollupu
+  - nastenka
+  - logo na strankach
+
+10a. Regal
+
+vasek navrhuji udelat kasicku a vybrat na regal. Potreba je 7500 Kc. Anicka udela letacek a vyvesi. Kasička pod tiskárnou
+
+10b. Vyveska
+
+Zridime vyvesku jako plochu pro budouci sponzory a taky na zebrani na projekty, oznameni apod.
+Docasne na tabuli nad tiskarnou. (whiteboard)
+
+11. media 
+
+probehl zprc vaska
+ Vašek se tomu pověnuje v rámci času tráveném na Installfestu
+
+https://www.instagram.com/base48cz/
+
+
+12. Úkoly z minula
+>> Prebrat media: v pokracovani
+        kdo: Vaclav, Anicka
+        stav: V procesu
+        
+>> dat dokupy dokumenty pro soud
+        Dokumenty:
+                 - Pruvodni dopis
+                 - Zapis podepsany zapisovatelem a overovatelem. [mame]
+                 - Email s pozvankou na hromadu
+                 - Nove stanovy
+                 - List s ucasti [mame]
+        kdo:
+                krtek
+                stav: V procesu
+  
+>> lubko-elektro-retro komp, jezdici stolecek
+        kdo: vaclav
+        Stav: zahajeno, zatim zadny progres
+
+>> hexo
+       kdo: anicka
+       Stav: v prubehu, cast odvezeno, mame slibeny do konce brezna zmizi rack
+    
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu
+
+>> elektrifikace zahradky
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+>> 3D tiskarny, opravit
+     kdo: Filip
+     stav: probiha, super akce
+         
+>> skladovaci prostory a postavit regal
+kdo: Anicka, skirit
+stav: probiha
+
+>> wiki
+     kdo: lubko (dohleduje Anicka)
+     stav: probiha
+     průběh: sekce "contacts" a "join us" budou Aničkou předělány na úvodní stránku "Hackerspace base48"
+      sekci equipment zatím zrušíme -> v rámci řešení médií ji začne vytvářet Václav za pomoci Skirita, protože už budou fotky
+zrusit: galerii, logo bude jenom vlevo nahore.
+
+>> manual pro nove cleny na wiki
+     kdo: anicka
+     stav: dokončeno
+
+
+
+13. Různé
+
