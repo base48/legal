@@ -1,0 +1,92 @@
+Rada Base48 3/2024
+Datum: 28.3.2024
+Pritomni: skirit, vaclav, anicka, krtek
+Zápis: krtek
+
+Program:
+  1. Skrin
+  2. Prednaska o squattingu
+  3. Role rady
+  4. Mino
+  5. Úkoly z minula
+  6. Různé
+
+Agenda:
+  1. Skrin
+  Anicka chce usporad chill zonu. Skirit je proti presunu freedomovi skrine. Shodli jsme se, ze skrin se presouvat nebude, at si ji freedom odveze.
+    
+  2. Prednaska o squattingu
+  
+  Probehla diskuse o podpore squattingu. Odhlasovano, ze prednaska bude.
+  
+  3. Role rady
+  
+  Poradani akci pro verejnost podleha oznameni rade, oznamuje se datum a cas konani a odpovedna osoba (clen sdruzeni) a taky obecne informace o obsahu apod.
+  Schvaleno konsensualne.
+  
+  Trvale a polotrvale upravy nabytku apod. v bejzu podlehaji schvaleni rady. Kazdy clen muze prijit na radu s pozadavkem.
+  Schvaleno konsensualne.
+  
+  4. Mino
+  
+  Vasek informuje o nekomfortnim navstevam Mina v bejzu. Zatim je shoda pockat nez si odstehuje veci.
+  
+  5. Úkoly z minula
+
+>> Prebrat media: v pokracovani
+        kdo: Vaclav, Anicka
+        stav: V procesu
+        
+>> dat dokupy dokumenty pro soud
+        Dokumenty:
+                 - Pruvodni dopis
+                 - Zapis podepsany zapisovatelem a overovatelem. [mame]
+                 - Email s pozvankou na hromadu
+                 - Nove stanovy
+                 - List s ucasti [mame]
+        kdo:
+                krtek
+                stav: V procesu
+  
+>> lubko-elektro-retro komp, jezdici stolecek
+        kdo: vaclav
+        Stav: zahajeno, zatim zadny progres
+
+>> hexo
+       kdo: anicka
+       Stav: v prubehu, cast odvezeno, mame slibeny do konce brezna zmizi rack
+    
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu
+
+>> elektrifikace zahradky
+     kdo: anicka najde nekoho, kdo to udela
+     stav: shanime cloveka
+     
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+>> 3D tiskarny, opravit
+     kdo: Filip
+     stav:  hotovo
+         
+>> skladovaci prostory a postavit regal
+kdo: Anicka, skirit
+stav: probiha
+
+>> wiki
+     kdo: lubko (dohleduje Anicka)
+     stav: hotovo a bude otevreno
+     průběh: sekce "contacts" a "join us" budou Aničkou předělány na úvodní stránku "Hackerspace base48"-Done
+      sekci equipment zatím zrušíme -> v rámci řešení médií ji začne vytvářet Václav za pomoci Skirita, protože už budou fotky
+zrusit: galerii, logo bude jenom vlevo nahore.
+
+     
+>> anicka zapise zmenu signalovych skupin a zkusebni dobu novych clenu do wiki.
+   stav: hotovo
+
+
+  6. Různé
+  
+  Diskuse o cyklokoutku.
+  
+  Dalsi rada bude 26.4.2024 v 17.00
