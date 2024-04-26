@@ -1,0 +1,91 @@
+Rada Base48 4/2024
+Datum: 26.4.2024
+Pritomni: skirit, anicka, krtek
+Zápis: krtek
+
+Program:
+  1. Mino
+  2. Regal
+  3. Kasa
+  4. Světla od freedoma
+  5. Úkoly z minula
+  6. Různé
+
+Agenda:
+    
+  1. Mino
+  
+Přišli jsme o lednice, scháníme. Anička zkusí freedoma. 
+
+Přišli jsem o některý elektrický rozvaděče. 
+Je potřeba nahradit
+ - ve dřevodílně
+ - prodlužka ke kompresoru
+ - překopat napájení racku výhledově
+Anička napíše call-for-hands na mailinglist.
+
+Panáky už jsme koupili.
+
+Výhledově potřeba pořešit pily, akušroubováky, flexa, prakticky celá dřevodílna.
+
+2. Regal
+  
+Už je nakoupené železo. Skirit schání člověka jako helfra na svařování. Spojí se s kurzem svařování. Máme jenom 3 masky. Kdo se chce naučit, ať se ozve skiritovi. Začne se přístí týden, bude se dělat po večerech. Anička vykopne na mailing list. Máme vybráno, takže schováme kasičku a výzvu. Anička odpáli na mailinglist po konzultaci s krtkem.
+
+3. Kasa
+
+V kase je málo peněz. Pauza nákupu provozních věcí dokud se nenasbírají peníze. 
+
+  
+4. Světla od freedoma
+
+Anička zjistí, jestli to freedom chce a pokud to nechce, tak to zlikvidujeme.
+
+
+    
+5. Úkoly z minula
+
+
+>> Prebrat media: v pokracovani
+        kdo: Vaclav, Anicka
+        stav: V procesu
+        
+>> dat dokupy dokumenty pro soud
+        Dokumenty:
+                 - Pruvodni dopis
+                 - Zapis podepsany zapisovatelem a overovatelem. [mame]
+                 - Email s pozvankou na hromadu
+                 - Nove stanovy
+                 - List s ucasti [mame]
+        kdo:
+                krtek
+                stav: V procesu
+  
+>> lubko-elektro-retro komp
+        kdo: vaclav
+        Stav: zahajeno, zatim zadny progres
+
+>> hexo
+       kdo: anicka
+       Stav: v prubehu, ještě tu má pár beden
+           
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu
+
+>> elektrifikace zahradky
+     kdo: skirit + krtek
+     stav: zasuvky hotovo, přemýšlíme o světlu
+     
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: Anicka, skirit
+stav: probiha
+
+
+6. Různé
+
+Diskutujeme lehce devconf.
+  
+Dalsi rada bude dne 23.5.2024 v 17.00
