@@ -1,0 +1,117 @@
+Rada Base48 7/2024
+Datum: 23.7.2024 18.00
+Pritomni: skirit, anicka, krtek, vaclav
+Zápis: krtek
+
+Program:
+    1. IT
+    2. Projekt IT trendy
+    3. ntpc
+    4. Kreyren
+    5. Ukoly z minula
+    6. Ruzne
+
+
+1. IT
+1.1: Mame verejne dostupny home assistant.
+https://ha.base48.cz:8443/
+Kdo bude chtit ucet, tak si pozada skirita.
+Muzeme tedka smerovat verejne porty na zarizeni ve vnitrni siti.
+Chysta se REST rozhrani publikujici stavy pritomnosti apod. do mapy hackerspacu.
+
+1.2: Diskuse o memberportalu a smerovani integrace. Schanime lidi na prepsani memberportalu do rozumneho jazyka. Nejdrive je potreba vymyslet architekturu: 
+    Skirit a krtek navrhnou architekturu.
+
+
+2. Projekt IT trendy
+Anicka prisla s projektem od Ceske sporitelny na tvorbu obsahu na webovy portal. Pro Base48 je to nevhodne.
+
+3. ntpc
+Probehla diskuse. Nikdo krom Anicky neni ochoten organizovat.
+
+4. Kreyren
+
+Návrh usnesení:
+Rada Base48 podmíněně schvaluje členství Kreyrena. Kreyren se stavá členem, rada Base48 si však vyhrazuje právo členství ukončit bez udání důvodu a to po dobu jednoho roku.
+Pro: vsichni
+Proti: nikdo
+Zdrzel se: neni tomu tak
+
+
+5. Ukoly z minula
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+   
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy, akusroubovaky
+
+>> Prebrat media
+        kdo: Vaclav
+        stav: instagram předá Zuzce
+        
+>> dat dokupy dokumenty pro soud
+        kdo:
+                odeslano na soud, cekame na odpoved
+                stav: V procesu
+  
+>> lubko-elektro-retro komp
+        kdo: vaclav
+        Stav: kontaktovano, uhanime
+
+>> hexo
+       kdo: anicka
+       Stav: v prubehu, ještě tu má pár beden
+
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu
+
+>> svetlo na zahradce
+     kdo: skirit
+     stav: v prubehu
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: krtek, skirit, vaclav
+stav: probiha (zbývají svařit tyčky, přidat desky a druhé ukotvení)
+
+>> odtah na zachode (z 5/2024)
+       kdo: krtek
+       stav: Krtek se podiva na diru.
+       
+>> opravit zatepleni (z 5/2024)
+       kdo: anicka
+       stav: probiha
+           
+>> sehnat desky (z 5/2024)
+    kdo: krtek
+    stav: probiha
+        
+>> mikroskop (z 5/2024)
+  kdo: anicka
+  stav: bude kontaktovat matyase
+
+>> cyklodilna: lubko tady ma nejaky kramy (z 5/2024) 
+  kdo: Václav se mu ozve
+  stav: v lehkém průběhu, krabice budou vysortovány přesunuty po dokončení regálu
+  
+>> Anička napíše na memberlist ať lidi, co dluží si nastaví trvalý příkaz. (z 6/2024)
+  kdo: anicka
+  stav: hotovo
+  
+>> Napsat znova na memberlist ať lidi, co dluží si nastaví trvalý příkaz. (z 7/2024)
+kdo: krtek
+
+      
+>>   Matyasovi krabice, vaclav zjisti, co je s krabicema a co s mikroskopem. (z 6/2024)
+  kdo: vaclav
+  stav: slibil ze to do mesice vyresi, ale zatim neucinil, vaclav napise pripadne znova
+      
+      
+6. Různé
+
+Další rada bude 27.8.2024 17.30
