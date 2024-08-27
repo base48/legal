@@ -1,0 +1,100 @@
+Rada Base48 8/2024
+Datum: 27.8.2024 18.30
+Pritomni: krtek, anicka, skirit, vaclav
+Zápis: krtek
+
+Program:
+    1. kyselina sírova
+    2. ctjb
+    3. Ukoly z minula
+    4. termixovi kola, cyklokoutek
+    5. Ruzne
+
+1. Kyselina sírova
+
+Tece, krtek to zlikviduje. Zceknu i redidla.
+
+2. CTJB
+
+Anicka porada.
+Zapujcime nejake vybaveni (monitory, prodluzky, projektor) na CTJB.
+
+3. Ukoly z minula
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+   
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy, akusroubovaky
+
+>> Prebrat media
+        kdo: Vaclav
+        stav: v průběhu
+        
+>> dat dokupy dokumenty pro soud
+        kdo:
+                odeslano na soud, cekame na odpoved
+                stav: V procesu
+  
+>> lubko-elektro-retro komp
+        kdo: vaclav
+        Stav: kontaktovano, uhanime
+
+>> hexo
+       kdo: anicka
+       Stav: v prubehu, ještě tu má pár beden
+
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu, krejren pomaha
+
+>> svetlo na zahradce
+     kdo: skirit
+     stav: v prubehu
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: krtek, skirit, vaclav
+stav: probiha (zbývají svařit tyčky, přidat desky a druhé ukotvení)
+
+>> odtah na zachode (z 5/2024)
+       kdo: krtek
+       stav: vyreseno
+       
+>> opravit zatepleni (z 5/2024)
+       kdo: anicka
+       stav: progres + probiha
+           
+>> sehnat desky (z 5/2024)
+    kdo: krtek -> zed
+    stav: probiha
+
+
+>> cyklodilna: lubko tady ma nejaky kramy (z 5/2024) 
+  kdo: Václav se mu ozve
+  stav: v lehkém průběhu, krabice budou vysortovány přesunuty po dokončení regálu
+  
+  
+>> Napsat znova na memberlist ať lidi, co dluží si nastaví trvalý příkaz. (z 7/2024)
+kdo: krtek
+stav: hotovo
+      
+>>   Matyasovi krabice, vaclav zjisti, co je s krabicema a co s mikroskopem. (z 6/2024)
+  kdo: vaclav, anicka
+  stav: slibil ze to do mesice vyresi, ale zatim neucinil, vaclav napise pripadne znova
+  
+>> memberportal (z 7/2024):
+    kdo: Skirit a krtek
+    stav: navrhnou architekturu.
+      
+4. termixovi kola, cyklokoutek
+
+Nema smysl, aby to bylo milion kol, ktere tu zavazi. Termix prezentuje svoji vizi cyklokoutku. Skirit popisuje tristni realitu "cyklokoutku". Termix slibil, ze priste prinese navrh na cykloukoutek.
+      
+5. Různé
+
+Další rada bude 24.9. v 18.00.
