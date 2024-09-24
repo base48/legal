@@ -1,0 +1,94 @@
+Rada Base48 9/2024
+Datum: 24.9.2024 18.30
+Pritomni: krtek, anicka, skirit, vaclav
+Zápis: krtek
+
+Program:
+    1. Cyklokoutek
+    2. Urza
+    3. OWASP Meet
+    4. Ukoly z minula
+    5. Ruzne
+
+1. Cyklokoutek
+Termix prezentuje vizi cyklokoutku. 2x1 m skrin s moznosti zavesit kola.
+Skirit argumentuje, ze Base nechce skladovat kola.
+Rada se obrati na mailinglist s dvema alternativnimi navrhy. Zavazuje respektovat vysledek pokud bude nadpovolovicni ucast. Krtek odesle clenum.
+
+2. Urza
+
+Akce se uskutecni 11.10. v 17.00. Pristup bude members&friends. Anicka se zepta lizarda na registrace a maso, vyhodi plakat.
+
+3. OWASP Meet
+
+Vasek premysli o poradani OWASP Meetu. Jako rada jsem pro.
+
+4. Ukoly z minula
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+   
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy, akusroubovaky
+
+>> Prebrat media
+        kdo: Vaclav
+        stav: v průběhu
+        
+>> dat dokupy dokumenty pro soud
+        kdo: krtek
+                odeslano na soud, cekame na odpoved
+                stav: zkontrolujeme na webu
+  
+>> lubko-elektro-retro komp
+        kdo: vaclav
+        Stav: kontaktovano, uhanime
+
+>> hexo
+       kdo: anicka
+       Stav: v prubehu, ještě tu má pár beden
+
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu, krejren pomaha
+
+>> svetlo na zahradce
+     kdo: skirit
+     stav: v prubehu
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: krtek, skirit, vaclav
+stav: probiha (zbývají přidat desky a druhé ukotvení)
+       
+>> opravit zatepleni (z 5/2024)
+       kdo: anicka
+       stav: progres + probiha
+           
+>> sehnat desky (z 5/2024)
+    kdo: krtek -> zed
+    stav: probiha
+
+>> cyklodilna: lubko tady ma nejaky kramy (z 5/2024) 
+  kdo: Václav se mu ozve
+  stav: v lehkém průběhu, krabice budou vysortovány přesunuty po dokončení regálu
+        
+>>   Matyasovi krabice, vaclav zjisti, co je s krabicema a co s mikroskopem. (z 6/2024)
+  kdo: vaclav, anicka
+  stav: slibil ze to do mesice vyresi, ale zatim neucinil, vaclav napise pripadne znova
+  
+>> memberportal (z 7/2024):
+    kdo: Skirit a krtek
+    stav: navrhnou architekturu
+    
+>> kyselina (z 8/2024)
+    kdo: krtek
+    stav: neutralizovano
+        
+5. Ruzne
+
+Další rada bude 29.10. v 18.00.
