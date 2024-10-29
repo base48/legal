@@ -1,0 +1,96 @@
+Rada Base48 10/2024
+Datum: 29.10.2024 18.30
+Pritomni: krtek, anicka, skirit
+Zápis: krtek
+
+Program:
+    1. Kreyren - první pomoc
+    2. Kreyren - filament
+    3. Laser cutter
+    4. Ukoly z minula
+    5. Ruzne
+
+1. První pomoc
+
+Kreyren navrhuje se zúčastnit kurzů první pomoci. Nebo někoho sehnat, aby přišel popovídat. Anička si to vezme organizačně na starost.
+
+2. Filament
+
+Kreyren povídá o situaci s koloběhem filamentu v Bejzu. Pokračuje shoda s aktuálním nastavení.
+Kreyren by chtěl skřín na kontrolované počasí, přinese návrh.
+
+3. Laser cutter
+
+Je potřeba vymyslet místo. Nejlépe kovový rám na kolečkách (stoleček na míru). Skirit se domluví s Honzou a přijde s návrhem.
+    
+4. Ukoly z minula
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+   
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy
+
+>> Prebrat media
+        kdo: Vaclav
+        stav: v průběhu
+        
+>> dat dokupy dokumenty pro soud
+        kdo: krtek
+                odeslano na soud, cekame na odpoved
+                stav: zkontrolujeme na webu
+  
+>> lubko-elektro-retro komp
+        kdo: vaclav
+        Stav: kontaktovano, uhanime
+
+>> hexo
+       kdo: anicka
+       Stav: v prubehu, ještě tu má pár beden
+
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu, krejren pomaha
+
+>> svetlo na zahradce
+     kdo: skirit
+     stav: v prubehu
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: krtek, skirit, vaclav
+stav: probiha (zbývají přidat desky a druhé ukotvení)
+       
+>> opravit zatepleni (z 5/2024)
+       kdo: anicka
+       stav: progres + probiha
+           
+>> sehnat desky (z 5/2024)
+    kdo: krtek -> zed
+    stav: probiha
+
+>> cyklodilna: lubko tady ma nejaky kramy (z 5/2024)
+  kdo: Václav se mu ozve
+  stav: v lehkém průběhu, krabice budou vysortovány přesunuty po dokončení regálu
+        
+>>   Matyasovi krabice, vaclav zjisti, co je s krabicema a co s mikroskopem. (z 6/2024)
+  kdo: vaclav, anicka
+  stav: slibil ze to do mesice vyresi, ale zatim neucinil, vaclav napise pripadne znova
+  Situace s Matyasovymi krabicemi je jiz zoufala. Telefony nebere. Pokud se situace nezlepsi do pristi rady, hodlame mu pozastavit clenstvi. Anicka provedla notifikaci prostrednictvim SMS.
+  
+>> memberportal (z 7/2024):
+    kdo: Skirit a krtek
+    stav: navrhnou architekturu
+
+>> odeslat clenum k ankete reseni cyklo veci (z 9/2024)
+    kdo: krtek
+    stav: v priprave k odeslani
+
+5. Ruzne
+
+
+Další rada bude 26.11. v 18.00.
