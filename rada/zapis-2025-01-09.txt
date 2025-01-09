@@ -1,0 +1,109 @@
+Rada Base48 1/2025
+Datum: 9.1.2025 20.00
+Pritomni: krtek, anicka, skirit
+Zápis: krtek
+
+Program:
+    1. Keramická dílna
+    2. Voda
+    3. Regaly
+    4. Úkoly z minula
+    5. Různé
+
+1. Keramická dílna
+
+Keramická dílna byla schválena radou někdy cca 2022. Dohoda je že Katka přihazuje za výpaly. Výpal stojí cca 100 Kč.
+
+2. Voda
+
+Teče nám odpad v kuchyni. Zítra to majitel/správce opraví. Skirit na to dohlídne.
+
+3. Regály
+
+Dostali jsme regály, dřevěný materiál. Umístění na stěnu s Putinem. Skirit zaridi.
+
+4. Úkoly z minula
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+   
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy
+
+>> Prebrat media
+        kdo: Vaclav
+        stav: v průběhu
+        
+>> dat dokupy dokumenty pro soud
+        kdo: krtek
+                odeslano na soud, cekame na odpoved
+                stav: v rejstriku to neni, vymyslím, co s tím
+
+>> bordel na stole ex. lubko
+   kdo: vaclav
+   stav: vaclav tu neni, ale vypada, ze se to trochu pohlo
+
+>> hexo
+       kdo: anicka
+       Stav: anicka posle posledni vyzvu, at vrati klice a odveze si krabice, jinak!
+
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu, krejren pomaha
+
+>> svetlo na zahradce
+     kdo: skirit
+     stav: v prubehu
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: krtek, skirit, vaclav
+stav: probiha (zbývají přidat desky a druhé ukotvení)
+       
+>> opravit zatepleni (z 5/2024)
+       kdo: anicka, outsourcovano na k+k
+       stav: progres + probiha
+           
+>> sehnat desky (z 5/2024)
+    kdo: krtek -> zed
+    stav: probiha
+
+>> cyklodilna: lubko tady ma nejaky kramy (z 5/2024)
+  kdo: Václav se mu ozve
+  stav: bude řešeno na valné hromadě
+        
+>> Matyasovi krabice, vaclav zjisti, co je s krabicema a co s mikroskopem. (z 6/2024)
+  kdo: vaclav, anicka
+  stav: krejren to skrepne a nebo zlikvidujeme
+  
+>> memberportal (z 7/2024):
+    kdo: Skirit a krtek
+    stav: navrhnou architekturu
+
+>> laser cutter umístění (z 10/2024)
+   kdo: Skirit se domluví s Honzou a přijde s návrhem.
+   stav: in progress
+      
+>> pingnout po vanocich cleny ohledne energii. (z 12/2024)
+  kdo: anicka
+  stav: hotovo
+
+>> zjistit info o energiich od majitele (z 12/2024)
+  kdo: vaclav
+  stav: nevime
+  
+>> svolat valnou hromadu (z 12/2024)
+  kdo: skirit
+  stav: hotovo
+
+>> poslat promo na silverstra (z 12/2024)
+  kdo: anicka
+  stav: hotovo
+
+5. Různé
+
+Další rada bude podle toho jak si rekne pristi rada, ktera se zvolí na valné hromadě.
