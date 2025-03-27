@@ -1,0 +1,93 @@
+Rada Base48 3/2025
+Datum: 27.3.2025 18.45
+Pritomni: krtek, skirit
+Zápis: krtek
+
+Program:
+    1. Štarlink
+    2. Úkoly z minula
+    3. Různé
+
+1. Starlink
+
+Krtek by chtěl zrušit Starlink, vyzkoumá možnosti LTE apod.
+    
+2. Úkoly z minula
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+   
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy
+
+>> Prebrat media
+        kdo: Vaclav
+        stav: v průběhu
+        
+>> dat dokupy dokumenty pro soud
+        kdo: krtek
+                odeslano na soud, cekame na odpoved
+                stav: v rejstriku to neni, vymyslím, co s tím
+
+>> bordel na stole ex. lubko
+   kdo: vaclav
+   stav: obecný bordel včetně svého Václav vyřeší
+
+>> uklid a rekonstrukce drevo a kovodilny
+      kdo: skirit
+      stav: v prubehu, krejren pomaha
+
+>> svetlo na zahradce
+     kdo: skirit
+     stav: v prubehu
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: krtek, skirit, vaclav
+stav: probiha (zbývají přidat desky a druhé ukotvení)
+           
+>> sehnat desky (z 5/2024)
+    kdo: krtek -> zed
+    stav: probiha
+        
+>> Matyasovi krabice, vaclav zjisti, co je s krabicema a co s mikroskopem. (z 6/2024)
+  kdo: vaclav, anicka, krejren
+  stav: hotovo
+  
+>> memberportal (z 7/2024):
+    kdo: Skirit a krtek
+    stav: navrhnou architekturu
+
+>> zjistit info o energiich od majitele (z 12/2024)
+  kdo: vaclav
+  stav: in progress
+  
+>> regaly na stenu s putinem (z 1/2025)
+  kdo: skirit
+  stav: probiha
+
+>> zapis z valne hromady (z 2/2025)
+  kdo: krtek, skirit
+  stav: zapsal, skirit posle mail
+
+>> varovani kreyena (z 2/2025)
+  kdo: skirit
+  stav: hotovo
+
+>> triaz kol (z 2/2025)
+  kdo: maria
+  stav: in progress
+  
+>> zasobovani kuchyne (z 2/2025)
+  kdo: freedom
+  stav: 0 bodu, doslo pivo
+
+3. Různé
+
+Thebys vymyslel tabulku na uklid. Vylepis QR kody.
+
+Další rada bude 24.4.2025 v 18.30.
