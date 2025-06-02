@@ -1,0 +1,148 @@
+Rada Base48 5/2025
+Datum: 2.6.2025 18.55
+Pritomni: krtek, vaclav, anicka, skirit, snajpa
+Zápis: krtek
+
+Program:
+    1. Novy clen - David, Marek
+    2. Party vyroci
+    3. Navrh cyklokoutku od Marii
+    4. Web
+    5. Novy prostor misto ker. koutku
+    6. Černé duše v memberportalu
+    7. Úkoly z minula
+    8. Různé
+
+1. Novy clen - David
+
+Anicka predstavuje zajemce o clenstvi.
+Hlasovaní o přijeti:
+Pro: anicka, krtek, skirit, vaclav
+Proti: nikdo
+Zdržel se: snajpa
+Přijat.
+
+Rada bere na vědomí, že předseda přijal Marka a tímto to schvaluje.
+
+Zájemce o členství Jirka
+Hlasování o přijetí:
+Pro: anicka, krtek, skirit, vaclav, snajpa
+Proti:
+Zdržel se: nikdo
+Přijat.
+
+2. Party vyroci
+
+6.8. budeme mít 15 let.
+8.8. uděláme party. Anicka si to vezme na starost.
+
+3. Navrh cyklokoutku od Marii
+
+Anicka prezentuje navrh cyklokoutku, pošle nám to do signálu, kouknem na to.
+https://cryptpad.fr/pad/#/2/pad/view/1bNpesqlF87NbQdR7PCDAoBgb2pTR8J8f+F-QvG2UaA
+
+Proběhla diskuse o návrhu, Anička předá zjištěné problémy. Především návrh neřeší cyklokoutek (dílnu) ale skladování soukromých kol.
+
+Návrh od skirita:
+    - vytřídíme náhradní díly na kola, vyhodíme nepotřebné
+    - neznámá kola vyhodíme
+    - zamezíme dlouhodobému skladování soukromých kol
+    - martian si to vezme na starost
+ 
+ Nikdo není proti, schváleno.
+
+4. Web
+
+Thebys prezentuje návrh (svého) webu a dalších alternativ.
+Proběhla diskuse.
+Poskytneme anketu členům, který z návrhů se líbí nejvíc a jak se lidi tváři na pixel arty a satelit a pak se rozhodneme. Anička (s podporou Thebyse) to zpracuje.
+
+
+5. Novy prostor misto ker. koutku
+
+Uvolnilo se místo, přemýšlíme, co s tím místem. Přemýšlíme o novém keramickém koutku, popřemýšlíme do příště.
+
+6. Černé duše v memberportalu
+
+Dlouhodobě nechodí a neplatí:
+hamza.fj - martian mu napíše
+ThirumaniS - vaclav mu napise emailem (anglicky)
+    
+7. Úkoly z minula
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+   
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy
+
+>> Prebrat media, prehodit na Thebyse
+        kdo: Vaclav
+        stav: v průběhu
+
+>> dat dokupy dokumenty pro soud
+        kdo: krtek
+                odeslano na soud, cekame na odpoved
+                stav: v rejstriku to neni, vymyslím, co s tím
+
+>> uklid a rekonstrukce kovodilny
+      kdo: skirit
+      stav: v prubehu, krejren pomaha
+
+>> svetlo na zahradce
+     kdo: skirit
+     stav: v prubehu
+     
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+         
+>> skladovaci prostory a postavit regal
+kdo: krtek, skirit, vaclav
+stav: hotovo
+
+>> sehnat desky (z 5/2024)
+    kdo: zed
+    stav: hotovo
+  
+>> memberportal (z 7/2024):
+    kdo: Skirit a krtek
+    stav: navrhnou architekturu
+
+>> zjistit info o energiich od majitele (z 12/2024)
+  kdo: skirit
+  stav: in progress
+  
+>> regaly na stenu s putinem (z 1/2025)
+  kdo: skirit
+  stav: probiha
+
+>> zapis z valne hromady (z 2/2025)
+  kdo: krtek, skirit, anicka
+  stav: hotovo
+
+>> triaz kol (z 2/2025)
+  kdo: martian
+  stav: in progress
+  
+>> zasobovani kuchyne (z 2/2025)
+  kdo: freedom
+  stav: 0 bodu, doslo pivo
+  
+>> led svetla do dilny (z 4/2025)
+  kdo: skirit zaukoluje kreyena
+  stav: probiha
+
+>> vykopnout event na stavbu regalu (z 4/2025)
+  kdo: anicka
+  stav: hotovo
+      
+>> aktualizace webu (z 4/2025)
+  kdo: thebys
+  stav: probiha
+      
+      
+8. Ruzné
+
+Další Rada bude 26.6. v 18.30.
