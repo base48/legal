@@ -1,0 +1,143 @@
+Rada Base48 6/2025
+Datum: 24.7.2025 19:00
+Pritomni: vaclav, anicka, skirit, snajpa, freedom
+Zápis: skirit
+
+Program:
+1. Party vyroci
+2. Umyvadlo/dřez
+3. BTC mat
+4. Svetla na zahradku 
+5. Černé duše v memberportalu
+6. Úkoly z minula
+7. Různé
+    
+1. Party vyroci
+   - 6.8. budeme mít 15 let.
+   - 8.8. uděláme party. Anicka si to vezme na starost.
+   - Anicka udela plagat, pozveme Takt a Brmlab
+   - herny koutek thebys, martian
+   - uklidovy den pred party 6.8. od 14:00, anicka posle pozvanky na uklid
+   - propagace party tyden dopredu Anicka
+   - jake Hudba
+   - skirit nakup maso, pecivo, tamda
+   - nachystat zbirku,  qr kod na ucet + pokladnicka, Thebys Anicka 
+   - start 4:20
+
+2. Umyvadlo
+
+    - pouzijeme drez od freedoma (Anicka, Thebys)
+
+
+3. Btc MAT
+
+    - rada souhlasi s umistenim BTC matu
+
+
+4. LED pasek na zahradku
+
+    - domluvit presun LED pasku od Anicky
+
+    - rozchodit thebysuv LED pasek
+
+    - pridat teplotni cidlo na zahradku
+
+    - vasek se snajpou udelaji tlacitko
+
+
+5. Černé duše v memberportalu
+   - Dlouhodobě nechodí a neplatí:
+   - hamza.fj - martian na tom pracuje
+   - ThirumaniS - vraci se po lete doresi se klice a jeho pokracovani jako clen
+
+6. Úkoly z minula
+
+>>  Navrh cyklokoutku Maria
+Maria vybrala 4000 CZK (utratila 1200 CZK navijak, lano; 300 fleky a lepidlo na pichly kola)
+v procesu
+https://cryptpad.fr/pad/#/2/pad/view/1bNpesqlF87NbQdR7PCDAoBgb2pTR8J8f+F-QvG2UaA
+Návrh od skirita:
+    - vytřídíme náhradní díly na kola, vyhodíme nepotřebné
+    - neznámá kola vyhodíme
+    - zamezíme dlouhodobému skladování soukromých kol
+    - martian si to vezme na starost
+
+>> Web
+   - vyhral thebysuv navrh, pixelart i satelit zustane
+   - deploy bude probihat v nejblizsi dobe
+pro: snajpa, vaclav, anicka
+proti: skirit
+   - pridat status basu na web na hlavni stranku (vyreseno)
+
+>> Novy prostor misto ker. koutku
+    - reorganizace a uklid chemickych veci
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: v procesu, chybí už jen v dřevodílně, kde to teď nejde
+
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   schanime: flexy
+
+>> Prebrat media, prehodit na Thebyse
+   - Instagram a x.com ma Vaclav preda Thebysovi
+   - Facebook ma thebys
+   - stav: vyrobit univerzalni platformu na vyrobu prispevku na vsechny socky
+   - snajpa deployne experiemntalni SW s lizardem (vysledek pruzkumu nelze) 
+
+>> dat dokupy dokumenty pro soud
+        kdo: krtek
+                odeslano na soud, cekame na odpoved
+                stav: v rejstriku to neni, vymyslím, co s tím
+        - skirit zajde na czechpoint a vyridi datovou schranku 
+
+>> uklid a rekonstrukce kovodilny
+      kdo: skirit
+      stav: v prubehu, krejren pomaha
+
+>> svetlo na zahradce
+     kdo: Anicka, Thebys
+     stav: v prubehu
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+
+>> memberportal (z 7/2024): 
+    kdo: Skirit a krtek 
+    stav: navrhnou architekturu 
+
+>> memberportal 
+
+    stav: nefunguje, potreba kontaktoat B42
+
+    kdo: skirit
+
+
+>> zjistit info o energiich od majitele (z 12/2024) 
+  kdo: skirit 
+  stav: in progress 
+
+>> regaly na stenu s putinem (z 1/2025) 
+  kdo: skirit 
+  stav: probiha 
+
+>> triaz kol (z 2/2025) 
+  kdo: martian 
+  stav: in progress 
+
+>> zasobovani kuchyne (z 2/2025) 
+  kdo: freedom 
+  stav: 0 bodu, doslo pivo 
+
+>> led svetla do dilny (z 4/2025) 
+  kdo: skirit zaukoluje kreyena 
+  stav: probiha 
+
+>> aktualizace webu (z 4/2025) 
+  kdo: thebys 
+  stav: hotovo
+
+7. Ruzné 
+
+Další Rada bude 25.8. v 18.30.
