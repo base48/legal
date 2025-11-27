@@ -1,0 +1,97 @@
+    Rada Base48 11/2025
+
+Datum: 27.11.2025 20:20
+Pritomni: 
+    Na čas: snajpa, skirit, freedom, thebys (zastoupeni anicky)
+    Omluven: Krtek
+    Neostavil se bez omluvy: Vaclav
+Zápis: skirit
+
+Program:
+1. Konsenzus ohledne vyuzivani prostoru
+2. Speleoklub a umisteni veci
+3. Valna hromada vyhlaseni
+4. Černé duše v memberportalu
+5. Úkoly z minula
+6. Různé
+    
+
+-------------------------
+1. Konsenzus ohledne vyuzivani prostoru
+
+    - Kreyren po zkušenosti s přesunutou castovačkou upozorňuje na nutnost konzultovat umístění věcí které se nevejdou do osobní krabice, s předsedou hackerspace nebo na schůzi rady hackerspace.
+
+
+2. Speleoklub a umisteni veci
+
+    - skirit pripravy navrh noveho speleoregalu 
+
+    - paja posle prispevek za skladovani veci speleoklubu 4800,-
+
+
+3. Valna hromada
+
+    - Rada navrhuje následující termíny pro konání valné hromady. Pro konzultaci se členy. Termín bude vybrán na příští schůzi rady.
+
+    - Thebys navrhuje rozšířit stanovy o ustanovení o možnosti že bývalým členům pokud si neodvezou po skončení členství majetek může tento propadnout ve prospěch spolku.
+
+    - skirit navrhuje pridat do predpisu o clenskym zakaz skladovani kol na zemi, veskera kola ktera by tu mela byt uskladnena dele jak jeden den nesmi zabirat podlajovou plochu, musi byt zaveseny nebo odstraneny a to vcetne kol na servis 
+
+    - 22.1.2026 v 19:00
+
+    - 29.1.2026 v 19:00
+
+
+4. Černé duše v memberportalu
+   - Dlouhodobě nechodí a neplatí:
+   - hamza.fj - martian na tom pracuje
+   - ThirumaniS - Anička zjistí aktuální situaci
+Anička obepíše dlužníky s výzvou k zaplacení. (neproběhlo)
+skirit obvola dlužníky
+
+5. Úkoly z minula
+
+>>  Cyklokoutek
+- Rada upozorňuje na nutnost uvolnění prostor který zabírají dlouhodobě zaparkovaná kola nejpozději k 31. 12. 2025, jinak budou zlikvidována. Snajpa řeší komunikaci s Marií.
+
+    - nove pravidlo umistovani kol
+
+    - omezeni erarnich kol na minimum
+
+
+>> Elektricky rozvadece
+   kdo: Hynek
+   stav: zastaveno, prostor je blokován.
+
+>> Shaneni naradi
+   kdo: vsichni
+   stav: v progresu
+   pořád sháníme flexy
+
+>> dat dokupy dokumenty pro soud
+        kdo: krtek
+                odeslano na soud, cekame na odpoved
+                stav: v rejstriku to neni, vymyslím, co s tím
+        - skirit zajde na czechpoint a vyridi datovou schranku - do valné hromady v lednu 2026
+
+>> uklid a rekonstrukce kovodilny
+      kdo: skirit
+      stav: docela proběhla
+
+>> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+    - Sháníme. Stejně jako flexy.
+
+>> memberportal (z 7/2024): 
+    kdo: Skirit a krtek 
+    stav 11/2025 - řeší Thebys v jazyce GO - repozitář: https://github.com/Thebys/base48-portal
+    - Posílejte Feature Requesty, kritiku, návrhy, zpětnou vazbu  
+
+>> led svetla do dilny (z 4/2025) 
+  Stav: Freedom daruje a doveze LED světla do příští rady  27.11. 2025
+
+7. Ruzné 
+- Noví členové, 
+- Další postup při stavbě velkého CNC routeru, důležité pro Skirita, Snajpu, zajímá se i Kreyren.
+
+Další Rada bude 18. 12. 2025 od 20.00 hodin místního času
+
