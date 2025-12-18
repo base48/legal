@@ -1,0 +1,217 @@
+    Rada Base48 12/2025
+
+    Datum: 18.12.2025 20:20
+
+    Pritomni: 
+
+        Na čas: snajpa, skirit, anicka, václav
+
+        
+
+        Omluven: Krtek
+
+        Neostavil se bez omluvy: Freedom
+
+    Zápis: václav
+
+
+    Program:
+
+    1. Cyklokoutek
+
+    2. vyhození output bufferu
+
+    3. Valna hromada vyhlaseni
+
+    4. Černé duše v memberportalu
+
+    5. Dřevokoutek
+
+    6. Návrhy na valnou hromadu
+
+    7. Úkoly z minula
+
+    8. Různé
+
+        
+
+
+    -------------------------
+
+    1.Cyklokoutek
+
+    - Maria předala informace o fungování cyklokoutku. Někteří lidé dostatečně nekomunikují ohledně osobních kol 
+
+    - V cyklokoutku Maria vyvěsí informace o tom, jak kola skladovat, jak rychle je odklizet atd. Dale budou doplněny knihy o tom, jak si opravit kolo sam.
+
+    - Maria apeluje na členy, aby se ji vždy ozvali, v případě, ze nechávají kola v koutku dýl. 
+
+
+
+    2. Vyhození output bufferu
+
+    - Anička Thebys odstranili věci z output bufferu pouze po 12 hodinách po upozornění
+
+    - Thebys bere zodpovědnost, protože to vyvezl on. Přiznává chybu, jednal prý unáhleně a nevěděl, že tam jsou cenné věci
+
+    - na output buffer skirit a Thebys vyvěsí pravidla: Output buffer má omezené pásmo páskou. Kdokoliv chce cokoliv z něj vzít, nechť kontaktuje Skirita, který má přehled o cennosti materiálu.
+
+
+    3. Valna hromada
+
+    - Rada navrhuje následující termíny pro konání valné hromady:
+
+    - 22.1.2026 
+
+    a 
+
+    - 29.1.2026
+
+    Thebys předá podněty od členů radě. 
+
+    Jako termín VH byl zvolen 22.1.2026, neboť pro něj hlasovala většina zůčastněných v anketě.
+
+
+    Kreyren:
+
+    - liability waiver, color-pack, kouření uvnitř, filtr vzduchu, air-quality senzory, financování, open-collective
+
+    - skirit- to nejsou témata na VH.
+
+
+    - Thebys navrhuje rozšířit stanovy o ustanovení o možnosti že bývalým členům pokud si neodvezou po skončení členství majetek může tento propadnout ve prospěch spolku.
+
+
+    - skirit navrhuje pridat do predpisu o clenskym zakaz skladovani kol na zemi, veskera kola ktera by tu mela byt uskladnena dele jak jeden den nesmi zabirat podlajovou plochu, musi byt zaveseny nebo odstraneny a to vcetne kol na servis
+
+
+    - 22.1.2026 v 19:00
+
+    - 29.1.2026 v 19:00
+
+
+    4. Černé duše v memberportalu
+
+       - Dlouhodobě nechodí a neplatí:
+
+       - hamza.fj - martian na tom pracuje
+
+       - ThirumaniS - Anička zjistí aktuální situaci 
+
+
+        skirit obvola dlužníky-
+
+        - Skiritovi se podařilo dostat některé dluhy a byly zaplaceny veškeré služby + nájem
+
+
+    5. Dřevokoutek
+
+    - Adam předvedl návrh dřevokoutku. Návrh je hezký, doplněn o celkovou cenu, která je cca 10 000 czk.
+
+    - Rada argumentuje, že návrh musí počítat s prostorem pro katuálně a plánovaně umístěné věci (CNC na dřevo; laser). Dále musí návrh počítat s místem na uskladnění materiálu a přesunutím věcí z prostoru dřevodílny na jiná místa. (rack)
+
+    - 
+
+
+    6. Návrhy na valnou hromadu
+
+    - změna stanov: 
+
+    a. Strukturální změna dokumentu od Thebise (https://harbornote.iver.cz/share/chx1oyhm9r/p/navrhy-zmen-stanov-base48-6f2HcXWper)
+
+    b. Skirit navrhuje nemít žádná kola na zemi a veškerá uskladněná na více, než den, 
+
+
+    7. Úkoly z minula
+
+
+    >>  Cyklokoutek
+
+    - Rada upozorňuje na nutnost uvolnění prostor který zabírají dlouhodobě zaparkovaná kola nejpozději k 31. 12. 2025, jinak budou zlikvidována. Snajpa řeší komunikaci s Marií.
+
+    - nove pravidlo umistovani kol
+
+    - omezeni erarnich kol na minimum
+
+
+    >> Elektricky rozvadece
+
+       kdo: Hynek
+
+       stav: zastaveno, prostor je blokován.
+
+
+    >> Shaneni naradi
+
+       kdo: vsichni
+
+       stav: v progresu
+
+       pořád sháníme flexy
+
+
+    >> dat dokupy dokumenty pro soud
+
+            kdo: krtek
+
+                    odeslano na soud, cekame na odpoved
+
+                    stav: v rejstriku to neni, vymyslím, co s tím
+
+            - skirit zajde na czechpoint a vyridi datovou schranku - Skirit vyřídil datovou schránku!
+
+
+    >> uklid a rekonstrukce kovodilny
+
+          kdo: skirit
+
+          stav: docela proběhla: měla by proběhnout diskuse o reorganizaci dílny
+
+
+    >> sejf - zjistime do dalsiho zasedani zda jej muzem z neceho vyrobit
+
+        - Sháníme. Stejně jako flexy.
+
+
+    >> memberportal (z 7/2024): 
+
+        kdo: Skirit a krtek 
+
+        stav 11/2025 - řeší Thebys v jazyce GO - repozitář: https://github.com/Thebys/base48-portal
+
+        - Posílejte Feature Requesty, kritiku, návrhy, zpětnou vazbu  
+
+
+    >> led svetla do dilny (z 4/2025) 
+
+      Stav: Freedom daruje a doveze LED světla do příští rady  27.11. 2025
+
+
+    7. Ruzné 
+
+    - Noví členové, 
+
+    - Další postup při stavbě velkého CNC routeru, důležité pro Skirita, Snajpu, zajímá se i Kreyren.
+
+    - Mariiny připomínky
+
+
+    Maria's reflections, she submitted and presented at council meeting:
+
+
+beyond the bike space:
+I’ve been reflecting on how we handle conflict and communicate in this space. This isn’t about calling out specific people it’s about noticing patterns and being honest about how they affect our community.
+I want to acknowledge my own role first. During exam season especially, I know I’ve been stressed, impatient, and unfair at times. I’m not exempt from the issues I’m naming here.
+We’re a community of around 30–50 people, with a smaller core group that’s especially active. When conflict comes up, I’ve noticed that disagreements often escalate quickly and shift from the issue at hand to personal attacks. When that happens, it becomes harder to feel safe, heard, or respected in this space.
+
+reflections from a member:
+ I've been active in communities like this since I was 13, first starting with Red Cross 1st aid initiatives aimed to help homeless people in Skopje during the harshest winter in the country. My 2nd community being the punk center music initiative which exposed me to the world of art, music and hacker culture. Which has led me to the community of base48, as I moved away abroad for university. I am now 24 this year and I hope to continue existing in this space with the people in it. Even if I don't see everyone often, I try to talk to them and see how they're doing and chat a little. 
+I try, as best I can, to approach others with calm, respect, and understanding, even when I disagree. I'm an immigrant here in Czechia, this space has meant a lot to me, I genuinely appreciate the people who’ve made me feel welcome here. Because I care about this community, I’ve also started to feel concerned that without better ways of addressing conflict, we risk turning this into a space defined more by tension than by support.
+I’m sharing this not to assign blame, but because I want us to reflect together on how we communicate and how we hold one another accountable in ways that strengthen rather than harm our community. I am also guilty of being terse, tense, stressed and broken by some life events that have happened to me during this last year. Please understand that I wrote this not to single out people but because I had to confront these topics and do it openly before a major argument that cannot be resolved takes place. 
+My message to everybody is quite simple, give each other more grace and understanding. 
+
+
+
+
+
+Další Rada bude 15. 01. 2026 od 20:00 hodin místního času
