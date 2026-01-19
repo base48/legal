@@ -134,7 +134,7 @@
 
    f) Předseda je oprávněn účastnit se zasedání všech orgánů spolku. Pokud není jejich členem, má právo poradní.
 
-   g) Nestanoví-li Valná hromada jinak, není Předseda bez souhlasu Rady spolku oprávněn zavazovat spolek nad částku ve výši 10.000,- Kč.
+   g) Nestanoví-li Valná hromada jinak, není Předseda bez souhlasu Rady spolku oprávněn zavazovat spolek nad částku ve výši 5.000,- Kč.
 
    h) V případě, že se uvolní místo Předsedy, svolá Rada spolku do jednoho měsíce Valnou hromadu za účelem volby Předsedy. Do zvolení nového Předsedy přejímá jeho pravomoci Rada spolku. Stejného postupu se použije, pokud Předseda nebyl na Valné hromadě zvolen.
 
