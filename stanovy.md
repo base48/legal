@@ -24,8 +24,7 @@
 
 1. Hlavní činnost spolku směřuje k ochraně a uspokojení společných zájmů a naplňování poslání, tak jak jsou stanoveny ve Všeobecných ustanoveních.
 
-2. K podpoře hlavní činnosti nevyvíjí spolek žádné činnosti vedlejší.
-
+2. Vedle hlavní činnosti může spolek vyvíjet vedlejší hospodářskou činnost, spočívající v podnikání nebo jiné výdělečné činnosti, jejímž účelem je podpora hlavní činnosti spolku nebo hospodárné využití jeho majetku. Zisk z vedlejší činnosti spolku lze použít pouze pro činnost spolku včetně správy spolku.
 ## III. Členství
 
 1. Členem spolku se může stát fyzická i právnická osoba (libovolného státu), která se chce podílet na uskutečňování cílů spolku. Na přijetí do spolku není nárok.
