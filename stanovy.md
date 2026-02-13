@@ -25,7 +25,6 @@
 1. Hlavní činnost spolku směřuje k ochraně a uspokojení společných zájmů a naplňování poslání, tak jak jsou stanoveny ve Všeobecných ustanoveních.
 
 2. Vedle hlavní činnosti může spolek vyvíjet vedlejší hospodářskou činnost, spočívající v podnikání nebo jiné výdělečné činnosti, jejímž účelem je podpora hlavní činnosti spolku nebo hospodárné využití jeho majetku. Zisk z vedlejší činnosti spolku lze použít pouze pro činnost spolku včetně správy spolku.
-
 ## III. Členství
 
 1. Členem spolku se může stát fyzická i právnická osoba (libovolného státu), která se chce podílet na uskutečňování cílů spolku. Na přijetí do spolku není nárok.
@@ -134,7 +133,7 @@
 
    f) Předseda je oprávněn účastnit se zasedání všech orgánů spolku. Pokud není jejich členem, má právo poradní.
 
-   g) Nestanoví-li Valná hromada jinak, není Předseda bez souhlasu Rady spolku oprávněn zavazovat spolek nad částku ve výši 10.000,- Kč.
+   g) Nestanoví-li Valná hromada jinak, není Předseda bez souhlasu Rady spolku oprávněn zavazovat spolek nad částku ve výši 5.000,- Kč.
 
    h) V případě, že se uvolní místo Předsedy, svolá Rada spolku do jednoho měsíce Valnou hromadu za účelem volby Předsedy. Do zvolení nového Předsedy přejímá jeho pravomoci Rada spolku. Stejného postupu se použije, pokud Předseda nebyl na Valné hromadě zvolen.
 
